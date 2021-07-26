@@ -1,7 +1,9 @@
 const nodeRedditClone = require("./tutorials/Node-Reddit-Clone/sidebar")
+const outcomesTrack = require("./tutorials/Outcomes-Track/sidebar")
 
 module.exports = {
   nodeRedditClone: nodeRedditClone,
+  outcomesTrack: outcomesTrack,
   environmentSetup: [
     {
       type: "category",
